@@ -47,7 +47,7 @@ In the menu user will have three options. They can visit their profile, they can
 
 <img src="images/mainPageMenu.png" width="300" />
 
-### Account Setting
+### User Profile
 User can change their profile picture by cropping a picture and change status in account setting.
 
 <img src="images/account.png" width="300" />
