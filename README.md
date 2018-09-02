@@ -38,9 +38,9 @@ If user click on a friend's name, it will give two options. Either user can send
 
 <img src="images/selectOption.png" width="300" />
 
-If user select chat option, then he/she will be taken directly to the chat box(Still it's in developing process).
+If user select chat option, then he/she will be taken directly to the chat box.
 
-<img src="images/chat.png" width="300" />
+
 
 ## Menu
 In the menu user will have three options. They can visit their profile, they can see all users list or they can log out.
