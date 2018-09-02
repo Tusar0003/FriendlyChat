@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Friendly Chat</string>
+
+    <string name="text_view_welcome">Welcome to Friendly Chat App</string>
+    <string name="text_view_new_account">Create A New Account</string>
+    <string name="text_view_log_in">Log In to Your Account</string>
+
+    <string name="button_already_have_an_account">ALREADY HAVE AN ACCOUNT?</string>
+    <string name="button_need_a_new_account">NEED A NEW ACCOUNT?</string>
+    <string name="button_create_account">CREATE ACCOUNT</string>
+    <string name="button_log_in">LOG IN</string>
+    <string name="button_change_status">CHANGE STATUS</string>
+    <string name="button_change_image">CHANGE IMAGE</string>
+
+    <string name="hint_user_name">User Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+
+    <string name="sign_in_failed">Sign In Failed!</string>
+    <string name="log_in">Log In</string>
+    <string name="log_in_failed">Log In Failed!</string>
+    <string name="reg_create_account">Create Account</string>
+    <string name="account_status">Account Status</string>
+
+    <string name="menu_account_settings">Account Settings</string>
+    <string name="menu_all_users">All Users</string>
+    <string name="menu_log_out">Log Out</string>
+    <string name="button_save_changes">SAVE CHANGES</string>
+    <string name="hint_your_status">Your Status</string>
+    <string name="button_send_friend_request">SEND FRIEND REQUEST</string>
+    <string name="button_decline_friend_request">DECLINE FRIEND REQUEST</string>
+    <string name="button_cancel_friend_request">CANCEL FRIEND REQUEST</string>
+    <string name="button_accept_friend_request">ACCEPT FRIEND REQUEST</string>
+    <string name="button_unfriend">Unfriend This Person</string>
+</resources>
