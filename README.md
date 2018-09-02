@@ -40,7 +40,7 @@ If user click on a friend's name, it will give two options. Either user can send
 
 If user select chat option, then he/she will be taken directly to the chat box.
 
-
+<img src="images/chat_new.png" width="300" />
 
 ## Menu
 In the menu user will have three options. They can visit their profile, they can see all users list or they can log out.
@@ -65,7 +65,11 @@ Here user can see every person's name who are using this application. From here 
 
 <img src="images/allUsers.png" width="300" />
 
-Other users profile will look like this.
+From this all user list, one person can select a user, checkout his/her profile and then if he/she wants can send him/her a request. They will be able to cancel the request as well.
+
+<img src="images/send_request.png" width="300" /> <img src="images/cancel_request.png" width="300" />
+
+If users want to checkout other person's profile, it will look like this.
 
 <img src="images/usersProfile.png" width="300" />
 
